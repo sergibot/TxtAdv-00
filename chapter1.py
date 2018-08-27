@@ -3,6 +3,8 @@
 # attach an image file to each scene?
 # display this in a GUI? tkinter? or pygame why not!
 
+# test edit from phone app??
+
 def intro():
 
 	print("Hello and welcome! You are in a field at night...")
