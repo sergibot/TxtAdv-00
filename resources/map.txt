@@ -1,0 +1,3 @@
+		EmptyRoom			
+FindKnifeRoom	EmptyRoom	StartingRoom	EmptyRoom	EmptyRoom	GiantKittenRoom
+

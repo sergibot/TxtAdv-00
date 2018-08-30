@@ -8,7 +8,11 @@ loc: lib (narr might be a book?)
 look -> tell player location, poss interactions
 mememe -> tell health, inventory, ...?
 other rooms: cafe; bar; library; park.
-enemies: 1hunger, 2FOMO, 3bees, 4awareness of teeth/eyes(upsddwnvsn)/clothes.
+enemies: rat,cat,dog,bear.
+items: health,weapons,powerups?,questitems,...
+quests: find coffee, get customers, shh ppl, pick up litter.
+money: "dosh", 1,5,10,20,50 doshes.
+shop: at each loc diff items can be purchased.
 
 '''
 
