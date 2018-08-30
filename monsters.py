@@ -16,11 +16,11 @@ class Monster(object):
 
 # List of Monsters
 
-Hunger = Monster("Hunger","1")
-FOMO = Monster("FOMO","2")
-Bees = Monster("Bees","3")
-Self-Consciousness = Monster("Self-Consciousness","4")
-monster_list = [Hunger,FOMO,Bees,Self-Consciousness]
+Rat = Monster("Rat","1")
+Cat = Monster("Cat","2")
+Dog = Monster("Dog","3")
+Bear = Monster("Bear","4")
+monster_list = [Rat,Cat,Dog,Bear]
 
 
 # Function to routinely make monsters appear (0.25chance)
