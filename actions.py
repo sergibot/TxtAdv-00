@@ -19,7 +19,7 @@ class MoveNorth(Action):
 				hotkey='n')
 class MoveSouth(Action):
 	def __init__(self):
-		super().__init__(method=Player.move_north, 
+		super().__init__(method=Player.move_south, 
 				name='Move south', 
 				hotkey='s')
 class MoveEast(Action):
@@ -29,9 +29,7 @@ class MoveEast(Action):
 				hotkey='e')
 class MoveWest(Action):
 	def __init__(self):
-		super().__init__(method=Player.move_west, 
-				name='Move west', 
-				hotkey='w')
+		super().__init__(method = Player.move_west, name='Move west', hotkey='w')
 
 class ViewInventory(Action):
 	# to show the player their inventory

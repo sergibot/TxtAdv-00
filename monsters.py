@@ -9,7 +9,7 @@ import random
 
 class Monster(object):
 	"""Monster"""
-	def __init__(self,hp,dmg):
+	def __init__(self,name,hp,dmg):
 		self.name = name
 		self.hp = hp
 		self.dmg = dmg
