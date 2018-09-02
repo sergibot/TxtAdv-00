@@ -1,0 +1,38 @@
+#import os
+#os.system('cls' if os.name == 'nt' else 'clear')
+# ^ to clear screen !!
+
+# get to read out line by line? ------- cmd?
+
+# tidy the inventory display
+
+# put rest of monsters, rooms, weapons, etc in
+
+# extend map
+
+# add music
+
+
+
+
+
+
+
+
+
+#eventually:
+# add characters -> quests...
+# define victory, angle quests etc toward this...
+# add pics, display using tkinter, then using pygame
+# animate sprites using pygame
+# ...
+
+
+
+#......
+# ...multiplayer online on server poss?
+# store game (assets?) on a server?
+# make run from website!
+# make run on mobile devices from website
+# make a mobile app from it / similar to it
+# ...
